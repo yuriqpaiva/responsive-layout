@@ -1,2 +1,3 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
+# responsive-layout
+
+Project to practice my responsive layout abilities on CSS
